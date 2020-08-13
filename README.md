@@ -1,4 +1,4 @@
 # my-forth-github-repository
 Just something to do
 
-This file was modified locally
+This line was modified manually during conflict resolution
